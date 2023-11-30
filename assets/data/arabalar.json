@@ -1,0 +1,428 @@
+
+[
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Opel",
+        "ulke": "Almanya",
+        "kurulus_yil": 1923,
+        "model" : [
+            {
+                "model_adi": "astra",
+                "fiyat": 15000,
+                "benzinli": false
+            },
+            {
+                "model_adi": "insigna",
+                "fiyat": 25000,
+                "benzinli": true
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model" : [
+            {
+                "model_adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": true
+            },
+            {
+                "model_adi": "c serisi",
+                "fiyat": 25000,
+                "benzinli": false
+            }
+        ]
+    }
+]
